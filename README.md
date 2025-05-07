@@ -2,16 +2,9 @@
 
 ## 📊 Overview
 
-In this project, we explore the multi-object task of age and gender prediction \
-using a convolutional neural network (CNN) on a comprehensive face image dataset. \
-This dataset comprises over 20,000 face images, each annotated with age, gender, \
-and ethnicity, and a wide variety of poses, facial expressions, lighting conditions, \
-occlusions, and resolutions.
+In this project, we explore the multi-object task of age and gender prediction using a convolutional neural network (CNN) on a comprehensive face image dataset. This dataset comprises over 20,000 face images, each annotated with age, gender, and ethnicity, and a wide variety of poses, facial expressions, lighting conditions, occlusions, and resolutions.
 
-Our primary focus is on predicting age and gender while analyzing the associated \
-biases and accuracy of these predictions. Additionally, we will discuss the \
-ethical implications of the AI-generated results and the potential risks associated \
-with deploying this model in real-world applications.
+Our primary focus is on predicting age and gender while analyzing the associated biases and accuracy of these predictions. Additionally, we will discuss the ethical implications of the AI-generated results and the potential risks associated with deploying this model in real-world applications.
 
 ## 📚 Dataset
 
@@ -115,7 +108,7 @@ The analysis uses the [UTKFace](https://www.kaggle.com/datasets/jangedoo/utkface
 
 Key dependencies include:
 
-- tensorflow
+- pytorch
 - opencv-python
 - numpy
 - pandas
