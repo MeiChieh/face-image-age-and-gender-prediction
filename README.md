@@ -24,9 +24,9 @@ The analysis uses the [UTKFace](https://www.kaggle.com/datasets/jangedoo/utkface
 
 ## 📗 Notebooks
 
-- [1_data_cleaning.ipynb](https://github.com/TuringCollegeSubmissions/mchien-DL.3.5/blob/master/1_data_cleaning.ipynb): Data cleaning and preprocessing
-- [2_eda.ipynb](https://github.com/TuringCollegeSubmissions/mchien-DL.3.5/blob/master/2_eda.ipynb): Exploratory data analysis
-- [3_modeling.ipynb](https://github.com/TuringCollegeSubmissions/mchien-DL.3.5/blob/master/3_modeling.ipynb): Model development and evaluation
+- [1_data_cleaning.ipynb](https://github.com/MeiChieh/face-image-age-and-gender-prediction/blob/main/1_data_cleaning.ipynb)
+- [2_eda.ipynb](https://github.com/MeiChieh/face-image-age-and-gender-prediction/blob/main/2_eda.ipynb)
+- [3_modeling.ipynb](https://github.com/MeiChieh/face-image-age-and-gender-prediction/blob/main/3_modeling.ipynb)
 
 ## 📈 Analysis Structure
 
